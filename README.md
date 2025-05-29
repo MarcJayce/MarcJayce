@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marc Jayce</h1>
 <p align="center">
-  <img src="https://personal-website-taupe-six.vercel.app/favicon.ico" width="100" alt="Marc Jayce logo"/>
+  <img src="https://raw.githubusercontent.com/MarcJayce/MarcJayce/main/Logo.png" width="100" alt="Marc Jayce logo"/>
 </p>
 
 <p align="center">
