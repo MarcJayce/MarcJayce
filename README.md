@@ -35,10 +35,3 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Cenidoza.MarcJayce0113@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://personal-website-taupe-six.vercel.app/)
 
----
-
-### 📸 Me IRL
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MarcJayce/MarcJayce/main/Profile.jpg" width="300" alt="Marc Jayce photo" />
-</p>
