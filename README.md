@@ -28,8 +28,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcJayce&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcJayce&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcJayce&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcJayce&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -38,5 +38,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcjayce)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Cenidoza.MarcJayce0113@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://personal-website-taupe-six.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://marcjayce.vercel.app/)
 
