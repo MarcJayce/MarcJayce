@@ -28,8 +28,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcJayce&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcJayce&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  ![](https://raw.githubusercontent.com/MarcJayce/MarcJayce/master/profile-summary-card-output/0-profile-details.svg)
+  ![](https://raw.githubusercontent.com/MarcJayce/MarcJayce/master/profile-summary-card-output/1-repos-per-language.svg)
 </p>
 
 ---
