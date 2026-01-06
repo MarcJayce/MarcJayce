@@ -27,10 +27,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarcJayce/MarcJayce/master/profile-summary-card-output/0-profile-details.svg" alt="Profile Details"/>
-  <img src="https://raw.githubusercontent.com/MarcJayce/MarcJayce/master/profile-summary-card-output/1-repos-per-language.svg" alt="Repos per Language"/>
-  <img src="https://raw.githubusercontent.com/MarcJayce/MarcJayce/master/profile-summary-card-output/2-most-commit-language.svg" alt="Most Commit Language"/>
-  <img src="https://raw.githubusercontent.com/MarcJayce/MarcJayce/master/profile-summary-card-output/3-stats.svg" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcJayce&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcJayce&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MarcJayce&theme=tokyonight&column=7" alt="GitHub Profile Trophies"/>
 </p>
 
 ---
