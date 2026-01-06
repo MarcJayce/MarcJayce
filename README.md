@@ -22,14 +22,15 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  ![](https://raw.githubusercontent.com/MarcJayce/MarcJayce/master/profile-summary-card-output/0-profile-details.svg)
-  ![](https://raw.githubusercontent.com/MarcJayce/MarcJayce/master/profile-summary-card-output/1-repos-per-language.svg)
+  <img src="https://raw.githubusercontent.com/MarcJayce/MarcJayce/master/profile-summary-card-output/0-profile-details.svg" alt="Profile Details"/>
+  <img src="https://raw.githubusercontent.com/MarcJayce/MarcJayce/master/profile-summary-card-output/1-repos-per-language.svg" alt="Repos per Language"/>
+  <img src="https://raw.githubusercontent.com/MarcJayce/MarcJayce/master/profile-summary-card-output/2-most-commit-language.svg" alt="Most Commit Language"/>
+  <img src="https://raw.githubusercontent.com/MarcJayce/MarcJayce/master/profile-summary-card-output/3-stats.svg" alt="Stats"/>
 </p>
 
 ---
