@@ -8,11 +8,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: MarcJayce
-          THEME: dracula   # optional, you can pick a theme like dracula, solarized, etc.
+     steps:
+          - uses: actions/checkout@v2
+          - name: Set up Git identity
+            run: |
+              git config --global user.name "MarcJayce"
+              git config --global user.email "MarcJayce@users.noreply.github.com"
+          - uses: vn7n24fzkq/github-profile-summary-cards@release
+            env:
+              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            with:
+              USERNAME: MarcJayce
